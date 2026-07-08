@@ -1,1 +1,1 @@
-https://dzakyard.github.io/TanamKita/
+https://dzakyard.github.io/TanamKita-cdn/
